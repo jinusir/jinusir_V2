@@ -117,7 +117,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '916282120758@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '918921567978s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/rashii.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 99978509, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
