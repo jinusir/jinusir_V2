@@ -10,7 +10,7 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Shadow-sir-v1"><img title="Shadow" src="https://img.shields.io/badge/author-Shadow-sir-v1?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Shadow-sir-v1"><img title="Shadow" src="https://replit.com/@aju0011/Ajuserv2-Qr"></a>
 
 </div>
 <p align="center">
