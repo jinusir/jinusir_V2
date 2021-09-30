@@ -6,11 +6,12 @@
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow-sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Shadow-sir-v1"><img title="Shadow" src="https://replit.com/@aju0011/Ajuserv2-Qr"></a>
+<a href="#"><img title="Shadow" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 </div>
 <p align="center">
@@ -56,7 +57,7 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Shadow-sir-v11/Shadow-sir-v1-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow-sir-v1/Shadow-sir_v2)
      </div>
