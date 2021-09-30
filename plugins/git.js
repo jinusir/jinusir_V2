@@ -23,10 +23,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
         *Github link        _https://github.com/Shadow-Sir-V1/Shadow-sir_V2*
  
+       * Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
 
        *Audio commads-1     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/upload_*
  
- 
+
        *Audio commads-2     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/uploads_*
   
   
