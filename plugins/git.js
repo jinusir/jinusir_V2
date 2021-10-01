@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg";
+  r_text[0] = "https://i.imgur.com/BVLUrXJ.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
         *Github link        _https://github.com/Shadow-Sir-V1/Shadow-sir_V2*
  
-       * Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
+       *Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
 
        *Audio commads-1     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/upload_*
  
