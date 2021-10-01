@@ -29,12 +29,12 @@
          "GREETING_TYPE": {
             "description": "If you like welcome message on gif write 'GIF' . Otherwise 'PP'",
             "required": false,
-            "value": "GIF"
+            "value": "PP"
         },  
         "GIF_WEL": {
             "description": "Welcome message video നിങ്ങൾക്ക് വേണ്ട welcome gif ന്റെ link കൊടുക്കുക .",
             "required": true,
-            "value": "https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0"
+            "value": "false"
         },
         "GIF_BYE": {
             "description": "Goodbye message video നിങ്ങൾക്ക് വേണ്ട goodbye gif ന്റെ link കൊടുക്കുക .",
